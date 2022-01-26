@@ -13,3 +13,5 @@
 5. После того как пользователь выбрал место, нужно перейти на страницу payment.html. Сделать это можно через JS - window.local.href.
 
 На странице нужно указать место и сумму денег.
+![alt text](https://github.com/EduardBucari/job4j_cinema/blob/master/images/cin1.PNG)
+![alt text](https://github.com/EduardBucari/job4j_cinema/blob/master/images/cin2.PNG)
